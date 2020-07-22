@@ -1,2 +1,2 @@
 # epam-JavaScript
-epam hometask 12 - JavaScript
+epam hometask 11 - JavaScript
